@@ -1,0 +1,86 @@
+<scoverage 
+statement-count="19" statements-invoked="19" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1492403317310">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="19" statements-invoked="19" statement-rate="100.00">
+            <classes>
+                <class 
+                name="Calc" filename="Calc.scala" statement-count="19" statements-invoked="19" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/Calc/isPrime" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="595" end="605" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="541" end="546" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="562" end="563" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="548" end="553" line="25" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="567" end="585" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="559" end="607" line="25" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="559" end="607" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="548" end="553" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="isPrime" start="577" end="578" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Calc/sum" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="sum" start="184" end="189" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="sum" start="181" end="182" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="sum" start="168" end="190" line="10" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Calc/div" statement-count="7" statements-invoked="7" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="div" start="330" end="330" line="17" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="div" start="352" end="394" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="div" start="334" end="350" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="div" start="330" end="330" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="div" start="399" end="440" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="div" start="420" end="440" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Calc" class-type="Class" top-level-class="Calc" source="/Users/masashi/IdeaProjects/scala-test-study/src/main/scala-2.11/Calc.scala" method="div" start="352" end="394" line="17" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
